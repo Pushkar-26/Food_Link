@@ -35,10 +35,6 @@ Millions of tons of edible food are wasted every year while many people struggle
 
 Developed during **FSM Hackathon 4.0**.
 
-## 📷 Screenshots
-
-(Add screenshots here)
-
 ## 🏆 Achievement
 
 🥈 **2nd Runner-Up** at the International **FSM Hackathon 4.0**
